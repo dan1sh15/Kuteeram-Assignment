@@ -111,6 +111,6 @@ service-booking-backend/
 ```
 
 ### Postman Collection
-![Postman API Collection](https://documenter.getpostman.com/view/30543263/2sB2ixju9v)
+[Postman API Collection](https://documenter.getpostman.com/view/30543263/2sB2ixju9v)
 
 ### Hosted render link
