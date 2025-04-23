@@ -49,7 +49,7 @@ npm run dev
 | Variable       | Description                     | Default Value                          |
 |----------------|---------------------------------|----------------------------------------|
 | `NODE_ENV`     | Application environment         | `development`                          |
-| `PORT`         | Server port                     | `5000`                                 |
+| `PORT`         | Server port                     | `4000`                                 |
 | `MONGO_URI`    | MongoDB connection string       | Get url from mongodb Atlas             |
 | `JWT_SECRET`   | Secret for JWT signing          | **Required use your own secret key**   |
 
@@ -114,3 +114,4 @@ service-booking-backend/
 [Postman API Collection](https://documenter.getpostman.com/view/30543263/2sB2ixju9v)
 
 ### Hosted render link
+[Render Link](https://kuteeram-assignment.onrender.com)
