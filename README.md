@@ -51,7 +51,7 @@ npm run dev
 | `NODE_ENV`     | Application environment         | `development`                          |
 | `PORT`         | Server port                     | `5000`                                 |
 | `MONGO_URI`    | MongoDB connection string       | Get url from mongodb Atlas             |
-| `JWT_SECRET`   | Secret for JWT signing          | **Required use your own secret ket**   |
+| `JWT_SECRET`   | Secret for JWT signing          | **Required use your own secret key**   |
 
 ## API Endpoints
 
@@ -110,7 +110,7 @@ service-booking-backend/
 └── server.js        # Server entry point
 ```
 
-### Psotman Collection
-
+### Postman Collection
+![Postman API Collection](https://documenter.getpostman.com/view/30543263/2sB2ixju9v)
 
 ### Hosted render link
